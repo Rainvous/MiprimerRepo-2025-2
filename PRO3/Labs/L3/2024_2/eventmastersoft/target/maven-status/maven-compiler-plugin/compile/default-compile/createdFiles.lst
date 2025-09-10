@@ -1,0 +1,12 @@
+pe\edu\pucp\eventmastersoft\Principal.class
+pe\edu\pucp\eventmastersoft\IDataProvider.class
+pe\edu\pucp\eventmastersoft\InfoProvider.class
+pe\edu\pucp\eventmastersoft\ObraTeatral.class
+pe\edu\pucp\eventmastersoft\Funcion.class
+pe\edu\pucp\eventmastersoft\Local.class
+pe\edu\pucp\eventmastersoft\Concierto.class
+pe\edu\pucp\eventmastersoft\Evento.class
+pe\edu\pucp\eventmastersoft\Productora.class
+pe\edu\pucp\eventmastersoft\TipoLocal.class
+pe\edu\pucp\eventmastersoft\Artista.class
+pe\edu\pucp\eventmastersoft\TipoConcierto.class

@@ -1,0 +1,2 @@
+Main-Class: pe.edu.pucp.eventmastersoft.program.main.Principal
+Class-Path: eventmastersoftContratosModel.jar eventmastersoftLogisticaModel.jar eventmastersoftGestionModel.jar

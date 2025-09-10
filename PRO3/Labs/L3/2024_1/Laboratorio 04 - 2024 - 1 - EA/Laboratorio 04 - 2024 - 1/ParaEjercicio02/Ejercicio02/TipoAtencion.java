@@ -1,0 +1,3 @@
+enum TipoAtencion{
+	CITA_MEDICA, EXAMEN_DIAGNOSTICO
+}

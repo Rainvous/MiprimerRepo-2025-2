@@ -1,0 +1,23 @@
+Instrucciones:
+para compilar java: javac com/medicalsoft/..../*.java
+para crear jar: jar cvf "nombre".jar com/medicalsoft/.../*.class
+para limpiar la carpeta: rmdir /s /q com\medicalsoft\...
+
+1. javac com/medicalsoft/rrhh/model/*.java
+2. jar cvf medicalsoftRRHHModel.jar com/medicalsoft/rrhh/model/*.class
+E: rmdir /s /q com\medicalsoft\rrhh\model
+
+3. javac -cp medicalsoftRRHHModel.jar com/medicalsoft/infraestructura/model/*.java
+4. jar cvf medicalsoftInfraModel.jar com/medicalsoft/infraestructura/model/*.class
+E: rmdir /s /q com\medicalsoft\infraestructura\model
+
+5. javac -cp medicalsoftRRHHModel.jar;medicalsoftInfraModel.jar com/medicalsoft/servicios/model/*.java
+6. jar cvf medicalsoftServModel.jar com/medicalsoft/servicios/model/*.class
+E: rmdir /s /q com\medicalsoft\servicios\model
+
+7. javac -cp medicalsoftRRHHModel.jar;medicalsoftInfraModel.jar;medicalsoftServModel.jar com/medicalsoft/program/main/*.java
+8. jar cvf medicalsoftPrincipal.jar com/medicalsoft/program/main/*.class (NO PIDEN COMPONENTE .jar normal)
+8 (jar ejecutable: con MANIFEST): jar cvfm medicalsoftPrincipal.jar MANIFEST.MF com/medicalsoft/program/main/*.class
+E: rmdir /s /q com\medicalsoft\program\main
+
+Probar: java -jar medicalsoftPrincipal.jar

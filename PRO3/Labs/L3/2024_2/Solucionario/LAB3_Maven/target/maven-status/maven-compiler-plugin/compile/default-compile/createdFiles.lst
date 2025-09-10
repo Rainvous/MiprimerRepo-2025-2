@@ -1,0 +1,12 @@
+pe\edu\pucp\eventmastersoft\contratos\model\TipoConcierto.class
+pe\edu\pucp\eventmastersoft\program\main\Principal.class
+pe\edu\pucp\eventmastersoft\gestion\model\Productora.class
+pe\edu\pucp\eventmastersoft\logistica\model\TipoLocal.class
+pe\edu\pucp\eventmastersoft\logistica\model\Artista.class
+pe\edu\pucp\eventmastersoft\logistica\model\Local.class
+pe\edu\pucp\eventmastersoft\contratos\model\IDataProvider.class
+pe\edu\pucp\eventmastersoft\gestion\model\Concierto.class
+pe\edu\pucp\eventmastersoft\gestion\model\ObraTeatral.class
+pe\edu\pucp\eventmastersoft\logistica\model\InfoProvider.class
+pe\edu\pucp\eventmastersoft\logistica\model\Funcion.class
+pe\edu\pucp\eventmastersoft\gestion\model\Evento.class

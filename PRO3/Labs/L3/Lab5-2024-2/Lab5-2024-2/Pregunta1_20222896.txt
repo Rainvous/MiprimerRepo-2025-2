@@ -1,0 +1,4 @@
+hostname:labs-1inf30-prog3-20242.czi2gssum6x2.us-east-1.rds.amazonaws.com
+username:admin
+password:prog320242labs
+nombre de la bd: lab04
