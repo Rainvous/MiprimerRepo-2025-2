@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pe.com.citasvet.test.CitaMedicaDaoTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.92 s -- in pe.com.citasvet.test.CitaMedicaDaoTest

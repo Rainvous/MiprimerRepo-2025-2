@@ -1,0 +1,19 @@
+DATOS DE LA BD: MYSQL
+
+nombre de la instancia: transitsoftmysql
+hostname: transitsoftmysql.czcm0uisom2j.us-east-1.rds.amazonaws.com
+username: admin
+password: prog31inf30
+nombre de la bd (o esquema): laboratorio06
+puerto: 3306
+
+--------------------------------------------------
+
+DATOS DE LA BD: MSSQL
+
+nombre de la instancia: transitsoftmssql
+hostname: transitsoftmssql.czcm0uisom2j.us-east-1.rds.amazonaws.com
+username: admin
+password: prog31inf30
+nombre de la bd (o esquema): laboratorio06 (no sale la opción)
+puerto: 1433
