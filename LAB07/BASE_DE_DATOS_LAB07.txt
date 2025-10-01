@@ -10,3 +10,4 @@ user: admin
 contra: Fullchow#01
 puerto: 3306
 esquema: lab07 (este es el que va en el config)
+host: lab07-database.c9so244o0naw.us-east-1.rds.amazonaws.com
