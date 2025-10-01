@@ -1,0 +1,6 @@
+D:\SoftBase\SoftBaseModel\bin\Debug\SoftBaseModel.dll
+D:\SoftBase\SoftBaseModel\bin\Debug\SoftBaseModel.pdb
+D:\SoftBase\SoftBaseModel\obj\Debug\SoftBaseModel.csproj.AssemblyReference.cache
+D:\SoftBase\SoftBaseModel\obj\Debug\SoftBaseModel.csproj.CoreCompileInputs.cache
+D:\SoftBase\SoftBaseModel\obj\Debug\SoftBaseModel.dll
+D:\SoftBase\SoftBaseModel\obj\Debug\SoftBaseModel.pdb

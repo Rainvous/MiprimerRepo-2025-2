@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F245D84-94F9-4A62-B88E-B5CC688CD484}|SoftBaseTest\\SoftBaseTest.csproj|d:\\softbase\\softbasetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F245D84-94F9-4A62-B88E-B5CC688CD484}|SoftBaseTest\\SoftBaseTest.csproj|solutionrelative:softbasetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26090B8D-BB9C-4737-9315-B5349E7B62F5}|SoftBasePersistance\\SoftBasePersistance.csproj|d:\\softbase\\softbasepersistance\\daoimpl\\videojuegodaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26090B8D-BB9C-4737-9315-B5349E7B62F5}|SoftBasePersistance\\SoftBasePersistance.csproj|solutionrelative:softbasepersistance\\daoimpl\\videojuegodaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26090B8D-BB9C-4737-9315-B5349E7B62F5}|SoftBasePersistance\\SoftBasePersistance.csproj|d:\\softbase\\softbasepersistance\\daoimpl\\generodaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26090B8D-BB9C-4737-9315-B5349E7B62F5}|SoftBasePersistance\\SoftBasePersistance.csproj|solutionrelative:softbasepersistance\\daoimpl\\generodaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2672A6B4-70EB-4ECA-81C2-C7E7810826F0}|SoftBaseModel\\SoftBaseModel.csproj|d:\\softbase\\softbasemodel\\videojuegosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2672A6B4-70EB-4ECA-81C2-C7E7810826F0}|SoftBaseModel\\SoftBaseModel.csproj|solutionrelative:softbasemodel\\videojuegosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26090B8D-BB9C-4737-9315-B5349E7B62F5}|SoftBasePersistance\\SoftBasePersistance.csproj|d:\\softbase\\softbasepersistance\\dao\\videojuegodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26090B8D-BB9C-4737-9315-B5349E7B62F5}|SoftBasePersistance\\SoftBasePersistance.csproj|solutionrelative:softbasepersistance\\dao\\videojuegodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\SoftBase\\SoftBaseTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SoftBaseTest\\UnitTest1.cs",
+              "ToolTip": "D:\\SoftBase\\SoftBaseTest\\UnitTest1.cs",
+              "RelativeToolTip": "SoftBaseTest\\UnitTest1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:38:12.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideojuegoDAO.cs",
+              "DocumentMoniker": "D:\\SoftBase\\SoftBasePersistance\\DAO\\VideojuegoDAO.cs",
+              "RelativeDocumentMoniker": "SoftBasePersistance\\DAO\\VideojuegoDAO.cs",
+              "ToolTip": "D:\\SoftBase\\SoftBasePersistance\\DAO\\VideojuegoDAO.cs",
+              "RelativeToolTip": "SoftBasePersistance\\DAO\\VideojuegoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:40:15.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VideojuegosDTO.cs",
+              "DocumentMoniker": "D:\\SoftBase\\SoftBaseModel\\VideojuegosDTO.cs",
+              "RelativeDocumentMoniker": "SoftBaseModel\\VideojuegosDTO.cs",
+              "ToolTip": "D:\\SoftBase\\SoftBaseModel\\VideojuegosDTO.cs",
+              "RelativeToolTip": "SoftBaseModel\\VideojuegosDTO.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:38:38.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideojuegoDAOImpl.cs",
+              "DocumentMoniker": "D:\\SoftBase\\SoftBasePersistance\\DAOImpl\\VideojuegoDAOImpl.cs",
+              "RelativeDocumentMoniker": "SoftBasePersistance\\DAOImpl\\VideojuegoDAOImpl.cs",
+              "ToolTip": "D:\\SoftBase\\SoftBasePersistance\\DAOImpl\\VideojuegoDAOImpl.cs",
+              "RelativeToolTip": "SoftBasePersistance\\DAOImpl\\VideojuegoDAOImpl.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:30:10.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9725df13-6c15-4f4a-a3e2-0afd736a6447",
+        "Display": 0,
+        "X": 1205,
+        "Y": 454,
+        "Width": 1583,
+        "Height": 763,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneroDAOImpl.cs",
+              "DocumentMoniker": "D:\\SoftBase\\SoftBasePersistance\\DAOImpl\\GeneroDAOImpl.cs",
+              "RelativeDocumentMoniker": "SoftBasePersistance\\DAOImpl\\GeneroDAOImpl.cs",
+              "ToolTip": "D:\\SoftBase\\SoftBasePersistance\\DAOImpl\\GeneroDAOImpl.cs",
+              "RelativeToolTip": "SoftBasePersistance\\DAOImpl\\GeneroDAOImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:32:11.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

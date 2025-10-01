@@ -1,0 +1,12 @@
+BASE DE DATOS LAB07
+base_de_datos: lab07_esq (esquema)
+puerto:3306
+user:admin
+Fullchow#01
+---------------------
+NUEVA BASE DE DATOS LAB07
+identificador: lab07-database
+user: admin
+contra: Fullchow#01
+puerto: 3306
+esquema: lab07 (este es el que va en el config)
